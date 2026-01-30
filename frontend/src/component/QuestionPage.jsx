@@ -93,7 +93,7 @@ const copy=async()=>{
 
 
     return <>
-        <div className={`container-fluid m-1 p-2 pt-2 m-0 p-3 ${theme.class_name||null}`} >
+        <div className={`container-fluid m-1 p-2 pt-2 m-0 p-3 ${theme.class_name||null}`} style={{overflow:"scroll"}}>
             <div>
                 <div className="container d-flex">
                     <input id="q_search_input" className="col" type="search" placeholder="Enter question code."></input>

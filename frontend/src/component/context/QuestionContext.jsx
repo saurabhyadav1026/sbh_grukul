@@ -20,7 +20,7 @@ export const QuestionContextProvider = ({ children }) => {
 
 
     useEffect(() => {
-  
+        localStorage.clear()
         let anss = JSON.parse(localStorage.getItem("user_answers"));
      console.log(anss)
         if (anss ) setAns(anss)
