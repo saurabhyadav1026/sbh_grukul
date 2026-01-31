@@ -914,8 +914,8 @@ export const questions=[
     qcode: "TW0006",
     hinText: "विवेक, देव और ललित अकेले क्रमशः 10, 15 और 20 दिनों में एक कार्य कर सकते हैं। विवेक और देव मिलकर आधा कार्य कितने दिनों में पूरा करेंगे?",
     engText: "Vivek, Dev and Lalit alone can do a piece of work in 10, 15 and 20 days respectively. In how many days can Vivek and Dev together complete half of the same work?",
-    option: ["3½ दिन", "4 दिन", "4 3/8 दिन", "4½ दिन"],
-    answer: "4 3/8 दिन"
+    option: ["3½ दिन", "4 दिन", "3 दिन", "4½ दिन"],
+    answer: "3 दिन"
   },
   {
     qcode: "TW0007",
