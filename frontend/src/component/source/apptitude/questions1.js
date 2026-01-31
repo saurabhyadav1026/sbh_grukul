@@ -929,7 +929,7 @@ export const questions=[
     hinText: "A अकेला एक कार्य को 18 दिनों में कर सकता है। A और B मिलकर उसी कार्य को 8 दिनों में कर सकते हैं, जबकि B और C मिलकर उसे 6 दिनों में कर सकते हैं। A, B और C मिलकर उस कार्य को कितने दिनों में करेंगे?",
     engText: "A can do a piece of work in 18 days. A and B together can do it in 8 days while B and C together can do it in 6 days. In how many days can A, B and C together complete the work?",
     option: ["3½ दिन", "3 4/5 दिन", "4 3/8 दिन", "4½ दिन"],
-    answer: "4 3/8 दिन"
+    answer: "4½ दिन"
   }
 ,
 
