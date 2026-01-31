@@ -26,10 +26,11 @@ const params=useParams();
 
 
     const updatequestion = () => {
-        let code = document.getElementById("q_search_input").value  ;
+        let code = document.getElementById("q_search_input").value.toUpperCase()  ;
+       
         let q=getQuestion(code);
         
-        alert(q)
+       
         if (q){
                         setShowAns(false)
             let new_i=getQuestionIndex(code);
@@ -37,7 +38,7 @@ const params=useParams();
            
         }
         else{
-            alert("Invalid Question Code." +code)
+         
         }
     }
 
