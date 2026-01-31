@@ -509,7 +509,7 @@ export const questions=[
   {
     qcode: "RAPRO0007",
     hinText: "यदि आय अनुपात 4 : 5 में बढ़ती है और चौड़ाई अनुपात 3 : 2 में घटती है, तो क्षेत्रफल किस अनुपात में घटेगा?",
-    engText: "If the length is increased in the ratio 4 : 5 and breadth is decreased in the ratio 3 : 2, then the area will be decreased in the ratio:",
+    engText: "If the lengTh is increased in the ratio 4 : 5 and breadth is decreased in the ratio 3 : 2, then the area will be decreased in the ratio:",
     option: ["2 : 1", "4 : 3", "10 : 3", "6 : 5"],
     answer: "6 : 5"
   },
@@ -878,56 +878,56 @@ export const questions=[
   {
     qcode: "TW0001",
     hinText: "A अकेला एक कार्य को 6 दिन में पूरा कर सकता है और B अकेला उसी कार्य को 8 दिन में कर सकता है। A और B मिलकर उसी कार्य को कितने दिनों में पूरा करेंगे?",
-    EngText: "A alone can do a piece of work in 6 days and B alone can do the same work in 8 days. In how many days can A and B together complete the same work?",
+    engText: "A alone can do a piece of work in 6 days and B alone can do the same work in 8 days. In how many days can A and B together complete the same work?",
     option: ["26/7 दिन", "24/7 दिन", "48/13 दिन", "35/13 दिन"],
     answer: "24/7 दिन"
   },
   {
     qcode: "TW0002",
     hinText: "A अकेला एक कार्य को 20 दिन में पूरा कर सकता है और B अकेला उसी कार्य को 30 दिन में कर सकता है। A और B दोनों मिलकर उसी कार्य को कितने दिनों में पूरा करेंगे?",
-    EngText: "A alone can do a piece of work in 20 days and B alone can do the same work in 30 days. In how many days can both A and B together complete the same work?",
+    engText: "A alone can do a piece of work in 20 days and B alone can do the same work in 30 days. In how many days can both A and B together complete the same work?",
     option: ["12 दिन", "15 दिन", "8 दिन", "6 दिन"],
     answer: "12 दिन"
   },
   {
     qcode: "TW0003",
     hinText: "A, B और C क्रमशः 24, 5 और 12 दिनों में एक कार्य को पूरा कर सकते हैं। वे मिलकर उस कार्य को कितने दिनों में पूरा करेंगे?",
-    EngText: "A, B and C complete a piece of work in 24, 5 and 12 days respectively. In how many days will they together complete the work?",
+    engText: "A, B and C complete a piece of work in 24, 5 and 12 days respectively. In how many days will they together complete the work?",
     option: ["3 1/13 दिन", "4 दिन", "5 दिन", "6 दिन"],
     answer: "3 1/13 दिन"
   },
   {
     qcode: "TW0004",
     hinText: "A अकेला एक कार्य को 5 दिन में कर सकता है, लेकिन अपने पुत्र की सहायता से वह उसे 3 दिन में कर लेता है। पुत्र अकेला उस कार्य को कितने दिनों में करेगा?",
-    EngText: "A man can do a piece of work in 5 days, but with the help of his son he can do it in 3 days. In what time can the son do it alone?",
+    engText: "A man can do a piece of work in 5 days, but with the help of his son he can do it in 3 days. In what time can the son do it alone?",
     option: ["7 दिन", "8 दिन", "7½ दिन", "6½ दिन"],
     answer: "7½ दिन"
   },
   {
     qcode: "TW0005",
     hinText: "A एक कार्य को 6 दिन में पूरा करता है जबकि B उसी कार्य को 12 दिन में करता है। यदि वे साथ मिलकर कार्य करें, तो A द्वारा किया गया कार्य का भाग कितना होगा?",
-    EngText: "A can complete a piece of work in 6 days while B can complete the same work in 12 days. If they work together, what is the portion of the work done by A?",
+    engText: "A can complete a piece of work in 6 days while B can complete the same work in 12 days. If they work together, what is the portion of the work done by A?",
     option: ["1/3", "2/3", "1/4", "1/2"],
     answer: "2/3"
   },
   {
     qcode: "TW0006",
     hinText: "विवेक, देव और ललित अकेले क्रमशः 10, 15 और 20 दिनों में एक कार्य कर सकते हैं। विवेक और देव मिलकर आधा कार्य कितने दिनों में पूरा करेंगे?",
-    EngText: "Vivek, Dev and Lalit alone can do a piece of work in 10, 15 and 20 days respectively. In how many days can Vivek and Dev together complete half of the same work?",
+    engText: "Vivek, Dev and Lalit alone can do a piece of work in 10, 15 and 20 days respectively. In how many days can Vivek and Dev together complete half of the same work?",
     option: ["3½ दिन", "4 दिन", "4 3/8 दिन", "4½ दिन"],
     answer: "4 3/8 दिन"
   },
   {
     qcode: "TW0007",
     hinText: "मोहन और रमेश मिलकर एक कार्य को 15 दिनों में पूरा करते हैं। मोहन, रमेश से 50% अधिक कुशल है। मोहन अकेला उस कार्य को कितने दिनों में करेगा?",
-    EngText: "Mohan and Ramesh together can complete a work in 15 days. Mohan is 50% more efficient than Ramesh. Find the time taken by Mohan.",
+    engText: "Mohan and Ramesh together can complete a work in 15 days. Mohan is 50% more efficient than Ramesh. Find the time taken by Mohan.",
     option: ["20 दिन", "22.5 दिन", "32 दिन", "25 दिन"],
     answer: "25 दिन"
   },
   {
     qcode: "TW0008",
     hinText: "A अकेला एक कार्य को 18 दिनों में कर सकता है। A और B मिलकर उसी कार्य को 8 दिनों में कर सकते हैं, जबकि B और C मिलकर उसे 6 दिनों में कर सकते हैं। A, B और C मिलकर उस कार्य को कितने दिनों में करेंगे?",
-    EngText: "A can do a piece of work in 18 days. A and B together can do it in 8 days while B and C together can do it in 6 days. In how many days can A, B and C together complete the work?",
+    engText: "A can do a piece of work in 18 days. A and B together can do it in 8 days while B and C together can do it in 6 days. In how many days can A, B and C together complete the work?",
     option: ["3½ दिन", "3 4/5 दिन", "4 3/8 दिन", "4½ दिन"],
     answer: "4 3/8 दिन"
   }
@@ -936,63 +936,63 @@ export const questions=[
   {
     qcode: "TW0009",
     hinText: "A और E मिलकर एक कार्य को 160 दिनों में पूरा कर सकते हैं तथा C और E मिलकर उसी कार्य को 80 दिनों में कर सकते हैं। A, C और E मिलकर उसी कार्य को कितने दिनों में पूरा करेंगे?",
-    EngText: "A and E together can complete the work in 160 days and C and E together can do the same work in 80 days. In how many days can A, C and E together complete the same work?",
+    engText: "A and E together can complete the work in 160 days and C and E together can do the same work in 80 days. In how many days can A, C and E together complete the same work?",
     option: ["960/13 दिन", "120/13 दिन", "480/13 दिन", "240/13 दिन"],
     answer: "960/13 दिन"
   },
   {
     qcode: "TW0010",
     hinText: "A और B एक कार्य को 30 दिनों में पूरा कर सकते हैं, B और C 20 दिनों में तथा C और A 15 दिनों में। यदि तीनों साथ काम करें, तो कार्य कितने दिनों में पूरा होगा?",
-    EngText: "A and B can complete a work in 30 days, B and C in 20 days and C and A in 15 days. If all of them work together, the time taken will be:",
+    engText: "A and B can complete a work in 30 days, B and C in 20 days and C and A in 15 days. If all of them work together, the time taken will be:",
     option: ["10 दिन", "12 दिन", "12 2/3 दिन", "13 1/3 दिन"],
     answer: "12 2/3 दिन"
   },
   {
     qcode: "TW0011",
     hinText: "A और B मिलकर एक कार्य को 60 दिनों में करते हैं, B और C 120 दिनों में तथा A और C 30 दिनों में। C अकेला उस कार्य को कितने दिनों में करेगा?",
-    EngText: "A and B together can complete a work in 60 days, B and C in 120 days and A and C in 30 days. In what time can C alone complete the work?",
+    engText: "A and B together can complete a work in 60 days, B and C in 120 days and A and C in 30 days. In what time can C alone complete the work?",
     option: ["80 दिन", "100 दिन", "120 दिन", "150 दिन"],
     answer: "80 दिन"
   },
   {
     qcode: "TW0012",
     hinText: "P और Q मिलकर एक कार्य को 12 दिनों में, Q और R 15 दिनों में तथा R और P 20 दिनों में कर सकते हैं। P अकेला उस कार्य को कितने दिनों में करेगा?",
-    EngText: "P and Q can finish a work in 12 days, Q and R in 15 days and R and P in 20 days. In how many days can P alone finish the work?",
+    engText: "P and Q can finish a work in 12 days, Q and R in 15 days and R and P in 20 days. In how many days can P alone finish the work?",
     option: ["10 दिन", "20 दिन", "40 दिन", "60 दिन"],
     answer: "40 दिन"
   },
   {
     qcode: "TW0013",
     hinText: "A किसी कार्य का 1/2 भाग 5 दिनों में कर सकता है, B उसी कार्य का 3/5 भाग 9 दिनों में तथा C उसी कार्य का 2/3 भाग 8 दिनों में कर सकता है। तीनों मिलकर पूरा कार्य कितने दिनों में करेंगे?",
-    EngText: "A can do 1/2 of a work in 5 days, B can do 3/5 of the work in 9 days and C can do 2/3 of the work in 8 days. In how many days will all three together complete the work?",
+    engText: "A can do 1/2 of a work in 5 days, B can do 3/5 of the work in 9 days and C can do 2/3 of the work in 8 days. In how many days will all three together complete the work?",
     option: ["3 दिन", "5 दिन", "4 1/2 दिन", "4 दिन"],
     answer: "4 1/2 दिन"
   },
   {
     qcode: "TW0014",
     hinText: "A एक कार्य को 7½ घंटे में तथा B उसी कार्य को 10½ घंटे में कर सकता है। यदि वे 3½ घंटे साथ काम करें, तो कितना कार्य शेष रहेगा?",
-    EngText: "A can do a work in 7½ hours and B can do the same work in 10½ hours. If they work together for 3½ hours, what part of the work will be left?",
+    engText: "A can do a work in 7½ hours and B can do the same work in 10½ hours. If they work together for 3½ hours, what part of the work will be left?",
     option: ["3/5", "1/5", "1/3", "2/5"],
     answer: "1/5"
   },
   {
     qcode: "TW0015",
     hinText: "A किसी कार्य को 7 दिनों में और B उसी कार्य को 12 दिनों में पूरा कर सकता है। दोनों ने 3 दिन साथ काम किया। शेष कार्य C ने 9 दिनों में किया। C अकेला पूरा कार्य कितने दिनों में करेगा?",
-    EngText: "A can complete a work in 7 days and B in 12 days. They worked together for 3 days. The remaining work was done by C in 9 days. How many days will C take alone to complete the whole work?",
+    engText: "A can complete a work in 7 days and B in 12 days. They worked together for 3 days. The remaining work was done by C in 9 days. How many days will C take alone to complete the whole work?",
     option: ["21", "28", "14", "35"],
     answer: "28"
   },
   {
     qcode: "TW0016",
     hinText: "A, B और C क्रमशः x, 30 और 45 दिनों में कार्य पूरा कर सकते हैं। B और C ने 6 दिन साथ काम किया और शेष कार्य A ने 12 दिनों में किया। x का मान क्या है?",
-    EngText: "A, B and C can complete a work in x, 30 and 45 days respectively. B and C worked together for 6 days and the remaining work was completed by A in 12 days. Find x.",
+    engText: "A, B and C can complete a work in x, 30 and 45 days respectively. B and C worked together for 6 days and the remaining work was completed by A in 12 days. Find x.",
     option: ["18", "20", "24", "15"],
     answer: "18"
   },
   {
     qcode: "TW0017",
     hinText: "A किसी कार्य का 60% भाग 10 दिनों में कर सकता है जबकि B उसी कार्य का 40% भाग 10 दिनों में करता है। दोनों 10 दिन साथ काम करते हैं। शेष कार्य C 4 दिनों में करता है। C अकेला पूरा कार्य कितने दिनों में करेगा?",
-    EngText: "A can do 60% of a work in 10 days and B can do 40% of the work in 10 days. They worked together for 10 days. C completed the remaining work in 4 days. In how many days will C alone complete the work?",
+    engText: "A can do 60% of a work in 10 days and B can do 40% of the work in 10 days. They worked together for 10 days. C completed the remaining work in 4 days. In how many days will C alone complete the work?",
     option: ["10", "12", "8", "6"],
     answer: "8"
   }
@@ -1001,70 +1001,70 @@ export const questions=[
   {
     qcode: "TW0018",
     hinText: "A और B किसी कार्य को क्रमशः 24 दिन और 40 दिन में कर सकते हैं। वे 8 दिन साथ काम करते हैं। शेष कार्य C ने 14 दिन में पूरा किया। C अकेला पूरा कार्य कितने दिनों में करेगा?",
-    EngText: "A and B can complete a certain task in 24 days and 40 days respectively. They worked together for 8 days. C completed the remaining work in 14 days. In how many days can C alone complete the same work?",
+    engText: "A and B can complete a certain task in 24 days and 40 days respectively. They worked together for 8 days. C completed the remaining work in 14 days. In how many days can C alone complete the same work?",
     option: ["10 days", "12 days", "15 days", "9 days"],
     answer: "12 days"
   },
   {
     qcode: "TW0019",
     hinText: "A किसी कार्य को 18 दिनों में और B उसी कार्य को 30 दिनों में कर सकता है। दोनों ने 6 दिन साथ काम किया। शेष कार्य C ने 7 दिन में किया। A, B और C मिलकर पूरा कार्य कितने दिनों में करेंगे?",
-    EngText: "A can do a piece of work in 18 days and B can do the same work in 30 days. Together they worked for 6 days. The remaining work was completed by C alone in 7 days. In how many days will A, B and C together complete the work?",
+    engText: "A can do a piece of work in 18 days and B can do the same work in 30 days. Together they worked for 6 days. The remaining work was completed by C alone in 7 days. In how many days will A, B and C together complete the work?",
     option: ["11 3/7", "9 3/7", "7 3/7", "6 3/7"],
     answer: "9 3/7"
   },
   {
     qcode: "TW0020",
     hinText: "A किसी कार्य का 2/3 भाग 8 दिनों में कर सकता है। B उसी कार्य का 3/5 भाग 12 दिनों में तथा C 4/9 भाग 8 दिनों में कर सकता है। A और B ने 5 दिन साथ काम किया। शेष कार्य को C अकेले कितने दिनों में पूरा करेगा?",
-    EngText: "A can do 2/3 of a work in 8 days, B can do 3/5 of the same work in 12 days and C can do 4/9 of the work in 8 days. A and B worked together for 5 days. In how many days will C alone complete the remaining work?",
+    engText: "A can do 2/3 of a work in 8 days, B can do 3/5 of the same work in 12 days and C can do 4/9 of the work in 8 days. A and B worked together for 5 days. In how many days will C alone complete the remaining work?",
     option: ["7 1/2", "6", "9", "8 1/2"],
     answer: "6"
   },
   {
     qcode: "TW0021",
     hinText: "यदि 5 पुरुष या 8 महिलाएँ किसी कार्य को 12 दिनों में कर सकती हैं, तो 2 पुरुष और 4 महिलाएँ उसी कार्य को कितने दिनों में करेंगी?",
-    EngText: "If 5 men or 8 women can do a piece of work in 12 days, how many days will be taken by 2 men and 4 women to do the same work?",
+    engText: "If 5 men or 8 women can do a piece of work in 12 days, how many days will be taken by 2 men and 4 women to do the same work?",
     option: ["15 days", "13 1/2 days", "13 1/3 days", "10 days"],
     answer: "13 1/3 days"
   },
   {
     qcode: "TW0022",
     hinText: "यदि 12 पुरुष और 20 महिलाएँ किसी कार्य को 54 दिनों में कर सकती हैं, तो 9 पुरुष और 12 महिलाएँ उसी कार्य को कितने दिनों में करेंगी?",
-    EngText: "If 12 men and 20 women can do a piece of work in 54 days, then in how many days will 9 men and 12 women together do the same work?",
+    engText: "If 12 men and 20 women can do a piece of work in 54 days, then in how many days will 9 men and 12 women together do the same work?",
     option: ["32", "40", "35", "38"],
     answer: "40"
   },
   {
     qcode: "TW0023",
     hinText: "2 पुरुष और 7 महिलाएँ किसी कार्य को 14 दिनों में कर सकती हैं, जबकि 3 पुरुष और 8 महिलाएँ उसी कार्य को 11 दिनों में कर सकती हैं। 5 पुरुष और 4 महिलाएँ उसी कार्य को कितने दिनों में करेंगी?",
-    EngText: "2 men and 7 women can do a piece of work in 14 days while 3 men and 8 women can do the same work in 11 days. In how many days will 5 men and 4 women do the same work?",
+    engText: "2 men and 7 women can do a piece of work in 14 days while 3 men and 8 women can do the same work in 11 days. In how many days will 5 men and 4 women do the same work?",
     option: ["11", "12", "14", "10"],
     answer: "12"
   },
   {
     qcode: "TW0024",
     hinText: "9 पुरुष और 12 महिलाएँ किसी कार्य को 4 दिनों में कर सकती हैं, जबकि 9 पुरुष और 6 महिलाएँ उसी कार्य को 10 दिनों में कर सकती हैं। 15 महिलाएँ उसी कार्य को कितने दिनों में करेंगी?",
-    EngText: "9 men and 12 women can do a piece of work in 4 days, while 9 men and 6 women can do it in 10 days. The number of days in which 15 women will complete the work is:",
+    engText: "9 men and 12 women can do a piece of work in 4 days, while 9 men and 6 women can do it in 10 days. The number of days in which 15 women will complete the work is:",
     option: ["12", "10", "8", "9"],
     answer: "8"
   },
   {
     qcode: "TW0025",
     hinText: "यदि 15 श्रमिक 10 दिनों में ₹1800 कमा सकते हैं, तो 5 श्रमिक 8 दिनों में कितनी राशि कमाएँगे?",
-    EngText: "If 15 workers can earn ₹1800 in 10 days, find the amount earned by 5 workers in 8 days?",
+    engText: "If 15 workers can earn ₹1800 in 10 days, find the amount earned by 5 workers in 8 days?",
     option: ["480", "400", "360", "540"],
     answer: "480"
   },
   {
     qcode: "TW0026",
     hinText: "A, B और C क्रमशः 12, 15 और 30 दिनों में एक कार्य कर सकते हैं। यदि वे साथ काम करें, तो कार्य का वितरण किस अनुपात में होगा?",
-    EngText: "A, B and C can do a piece of work in 12, 15 and 30 days respectively. If they work together, find the ratio in which the amount is to be distributed?",
+    engText: "A, B and C can do a piece of work in 12, 15 and 30 days respectively. If they work together, find the ratio in which the amount is to be distributed?",
     option: ["5 : 4 : 2", "2 : 5 : 4", "4 : 5 : 2", "2 : 4 : 5"],
     answer: "5 : 4 : 2"
   },
   {
     qcode: "TW0027",
     hinText: "स्वेता 30 घंटे में एक दीवार पेंट कर सकती है, जबकि अंसुल 40 घंटे में। दोनों मिलकर काम करते हैं और ₹14000 पाते हैं। अंसुल का हिस्सा कितना होगा?",
-    EngText: "Sweta can paint a wall in 30 hours, while Ansul can paint it in 40 hours. They work together and get ₹14000. What is Ansul's share?",
+    engText: "Sweta can paint a wall in 30 hours, while Ansul can paint it in 40 hours. They work together and get ₹14000. What is Ansul's share?",
     option: ["₹6000", "₹5000", "₹8000", "₹7000"],
     answer: "₹6000"
   }
@@ -1073,63 +1073,63 @@ export const questions=[
   {
     qcode: "TW0028",
     hinText: "एक आदमी और एक लड़के ने 5 दिनों तक साथ काम करने के लिए ₹800 प्राप्त किए। आदमी की कार्यक्षमता लड़के की दोगुनी है। लड़के की दैनिक मजदूरी क्या है?",
-    EngText: "A man and a boy received ₹800 as wages for 5 days for the work they did together. The man's efficiency is twice of the boy. What are the daily wages of the boy?",
+    engText: "A man and a boy received ₹800 as wages for 5 days for the work they did together. The man's efficiency is twice of the boy. What are the daily wages of the boy?",
     option: ["₹53 1/3", "₹56 1/3", "₹44 1/3", "₹40 1/3"],
     answer: "₹53 1/3"
   },
   {
     qcode: "TW0029",
     hinText: "A और B ने ₹4500 में एक कार्य करने का ठेका लिया। A अकेला 8 दिनों में और B अकेला 12 दिनों में कार्य कर सकता है। C की सहायता से उन्होंने कार्य 4 दिनों में पूरा किया। कुल राशि में C का हिस्सा कितना है?",
-    EngText: "A and B undertook to do a piece of work for ₹4500. A alone could do it in 8 days and B alone in 12 days. With the assistance of C they finished the work in 4 days. Then C's share in the total money is:",
+    engText: "A and B undertook to do a piece of work for ₹4500. A alone could do it in 8 days and B alone in 12 days. With the assistance of C they finished the work in 4 days. Then C's share in the total money is:",
     option: ["2250", "1500", "750", "375"],
     answer: "750"
   },
   {
     qcode: "TW0030",
     hinText: "तीन व्यक्तियों ने ₹1200 में एक कार्य करने का ठेका लिया। पहला व्यक्ति 8 दिनों में, दूसरा 12 दिनों में और तीसरा 16 दिनों में कार्य कर सकता है। चौथे व्यक्ति की सहायता से उन्होंने कार्य 3 दिनों में पूरा किया। चौथे व्यक्ति को कितना मिलेगा?",
-    EngText: "Three persons undertook to complete a piece of work for ₹1200. The first person can complete the work in 8 days, second in 12 days and third in 16 days. They completed the work with the help of a fourth person in 3 days. What does the fourth person get?",
+    engText: "Three persons undertook to complete a piece of work for ₹1200. The first person can complete the work in 8 days, second in 12 days and third in 16 days. They completed the work with the help of a fourth person in 3 days. What does the fourth person get?",
     option: ["180", "200", "225", "250"],
     answer: "225"
   },
   {
     qcode: "TW0031",
     hinText: "P और Q की कार्यक्षमता का अनुपात 3 : 4 है। कार्य पूरा करने में उनके द्वारा लिए गए दिनों का अनुपात क्या होगा?",
-    EngText: "Working efficiencies of P and Q for completing a piece of work are in the ratio 3:4. The number of days taken by them to complete the work will be in the ratio:",
+    engText: "Working efficiencies of P and Q for completing a piece of work are in the ratio 3:4. The number of days taken by them to complete the work will be in the ratio:",
     option: ["3 : 2", "2 : 3", "3 : 4", "4 : 3"],
     answer: "4 : 3"
   },
   {
     qcode: "TW0032",
     hinText: "A और B की कार्यक्षमता का अनुपात 5 : 6 है। साथ मिलकर वे कार्य को 120 दिनों में पूरा करते हैं। B अकेला कार्य का 40% कितने दिनों में पूरा करेगा?",
-    EngText: "The efficiency of A and B are in the ratio 5:6 working together. Both can complete a piece of work in 120 days. In how many days will B alone complete 40% of the work?",
+    engText: "The efficiency of A and B are in the ratio 5:6 working together. Both can complete a piece of work in 120 days. In how many days will B alone complete 40% of the work?",
     option: ["132 days", "80 days", "88 days", "60 days"],
     answer: "88 days"
   },
   {
     qcode: "TW0033",
     hinText: "A, B और C मिलकर 36 दिनों में एक कार्य पूरा कर सकते हैं। यदि A, B और C की कार्यक्षमता का अनुपात 5 : 6 : 9 है, तो B अकेला उसी कार्य को कितने दिनों में पूरा करेगा?",
-    EngText: "Working together A, B and C can complete a piece of work in 36 days. If the efficiency of A, B and C is in the ratio 5:6:9, then in how many days will B alone complete the same work?",
+    engText: "Working together A, B and C can complete a piece of work in 36 days. If the efficiency of A, B and C is in the ratio 5:6:9, then in how many days will B alone complete the same work?",
     option: ["120 दिन", "60 दिन", "90 दिन", "100 दिन"],
     answer: "60 दिन"
   },
   {
     qcode: "TW0034",
     hinText: "A एक कार्य को 40 दिनों में कर सकता है। वह 10 दिन कार्य करता है और फिर B शेष कार्य को 45 दिनों में पूरा करता है। A और B मिलकर 75% कार्य कितने दिनों में पूरा करेंगे?",
-    EngText: "A can do a piece of work in 40 days. He works on it for 10 days, and then B alone completes the remaining work in 45 days. In how many days will A and B together complete 75% of the work?",
+    engText: "A can do a piece of work in 40 days. He works on it for 10 days, and then B alone completes the remaining work in 45 days. In how many days will A and B together complete 75% of the work?",
     option: ["16", "24", "20", "18"],
     answer: "18"
   },
   {
     qcode: "TW0035",
     hinText: "A एक कार्य को 16 दिनों में और B उसी कार्य को 15 दिनों में कर सकता है। A ने 4 दिन कार्य किया, उसके बाद B भी A के साथ जुड़ गया। शेष कार्य कितने दिनों में पूरा होगा?",
-    EngText: "A can do a piece of work in 16 days and B can do the same work in 15 days. After A has worked for 4 days, B also joins A to complete the rest of the work. In how many days will the remaining work be completed?",
+    engText: "A can do a piece of work in 16 days and B can do the same work in 15 days. After A has worked for 4 days, B also joins A to complete the rest of the work. In how many days will the remaining work be completed?",
     option: ["7 25/31", "6 25/31", "8 25/31", "5 25/31"],
     answer: "5 25/31"
   },
   {
     qcode: "TW0036",
     hinText: "P एक कार्य को 30 दिनों में और Q उसी कार्य को 40 दिनों में कर सकता है। वे 5 दिन साथ काम करते हैं, फिर Q चला जाता है। शेष कार्य को P अकेला कितने समय (दिन और घंटे) में पूरा करेगा?",
-    EngText: "P can do a piece of work in 30 days and Q can do the same work in 40 days. They worked together for 5 days and then Q left. How much time (in days and hours) will P alone take to complete the remaining work?",
+    engText: "P can do a piece of work in 30 days and Q can do the same work in 40 days. They worked together for 5 days and then Q left. How much time (in days and hours) will P alone take to complete the remaining work?",
     option: ["20 दिन 6 घंटे", "21 दिन 18 घंटे", "22 दिन", "19 दिन 12 घंटे"],
     answer: "21 दिन 18 घंटे"
   }
@@ -1138,63 +1138,63 @@ export const questions=[
   {
     qcode: "TW0037",
     hinText: "K अकेला एक कार्य को 20 दिनों में और M अकेला उसी कार्य को 30 दिनों में कर सकता है। K और M साथ काम शुरू करते हैं, पर K 5 दिनों बाद काम छोड़ देता है। शेष कार्य को M कितने दिनों में पूरा करेगा?",
-    EngText: "K alone can do a piece of work in 20 days and M alone can do the same work in 30 days. K and M start the work together but K leaves after 5 days. In how many days will M complete the remaining work?",
+    engText: "K alone can do a piece of work in 20 days and M alone can do the same work in 30 days. K and M start the work together but K leaves after 5 days. In how many days will M complete the remaining work?",
     option: ["55/2", "35/2", "25/2", "45/2"],
     answer: "35/2"
   },
   {
     qcode: "TW0038",
     hinText: "A और B क्रमशः 30 और 40 दिनों में एक कार्य कर सकते हैं। उन्होंने साथ काम शुरू किया। 8 दिनों बाद A काम छोड़ देता है और B शेष कार्य को 5 दिनों में पूरा करता है। A कितने दिनों तक काम करता रहा?",
-    EngText: "A and B can do a piece of work in 30 days and 40 days respectively. They started work together. After some days A left the work and B completed the remaining work in 5 days. After how many days did A leave the work?",
+    engText: "A and B can do a piece of work in 30 days and 40 days respectively. They started work together. After some days A left the work and B completed the remaining work in 5 days. After how many days did A leave the work?",
     option: ["15", "12", "16", "20"],
     answer: "15"
   },
   {
     qcode: "TW0039",
     hinText: "A और B क्रमशः 18 और 10 दिनों में कार्य कर सकते हैं। वे 5 दिन साथ काम करते हैं, फिर C आता है और कार्य अगले 3 दिनों में पूरा हो जाता है। C अकेला कार्य कितने दिनों में करेगा?",
-    EngText: "A and B can do a piece of work in 18 days and 10 days respectively. They worked together for 5 days, after which C came and the work was finished in the next 3 days. How long will C alone take to do the work?",
+    engText: "A and B can do a piece of work in 18 days and 10 days respectively. They worked together for 5 days, after which C came and the work was finished in the next 3 days. How long will C alone take to do the work?",
     option: ["6", "9", "12", "15"],
     answer: "9"
   },
   {
     qcode: "TW0040",
     hinText: "A और B मिलकर 30 दिनों में कार्य पूरा करते हैं। उन्होंने 20 दिन काम किया और फिर B चला गया। शेष कार्य A ने 20 दिनों में पूरा किया। A अकेला कार्य कितने दिनों में करेगा?",
-    EngText: "A and B together finish a piece of work in 30 days. They worked for 20 days and then B left. The remaining work was done by A alone in 20 days. A alone can finish the work in:",
+    engText: "A and B together finish a piece of work in 30 days. They worked for 20 days and then B left. The remaining work was done by A alone in 20 days. A alone can finish the work in:",
     option: ["60 days", "54 days", "48 days", "50 days"],
     answer: "60 days"
   },
   {
     qcode: "TW0041",
     hinText: "A, B और C क्रमशः 6, 12 और 15 दिनों में कार्य कर सकते हैं। कार्य का 1/8 भाग पूरा होने के बाद C काम छोड़ देता है। शेष कार्य को A और B कितने समय में पूरा करेंगे?",
-    EngText: "A, B and C can do a job in 6, 12 and 15 days respectively. After 1/8 of the work is completed, C leaves the job. Time taken by A and B together to finish the remaining work is:",
+    engText: "A, B and C can do a job in 6, 12 and 15 days respectively. After 1/8 of the work is completed, C leaves the job. Time taken by A and B together to finish the remaining work is:",
     option: ["5 5/6", "3 1/2", "4 1/2", "6 3/2"],
     answer: "3 1/2"
   },
   {
     qcode: "TW0042",
     hinText: "A, B और C क्रमशः 10, 12 और 15 दिनों में कार्य कर सकते हैं। उन्होंने साथ काम शुरू किया। A 5 दिन पहले काम छोड़ देता है और B, A के 2 दिन बाद काम छोड़ देता है। कार्य कितने दिनों में पूरा हुआ?",
-    EngText: "A, B and C can complete a piece of work in 10, 12 and 15 days respectively. They started the work together. But A left the work before 5 days of its completion. B also left the work 2 days after A left. In how many days was the work completed?",
+    engText: "A, B and C can complete a piece of work in 10, 12 and 15 days respectively. They started the work together. But A left the work before 5 days of its completion. B also left the work 2 days after A left. In how many days was the work completed?",
     option: ["10", "11", "12", "13"],
     answer: "11"
   },
   {
     qcode: "TW0043",
     hinText: "A एक प्रोजेक्ट को 10 दिनों में और B उसी प्रोजेक्ट को 15 दिनों में पूरा कर सकता है। A और B साथ काम शुरू करते हैं, लेकिन B प्रोजेक्ट पूरा होने से 5 दिन पहले काम छोड़ देता है। प्रोजेक्ट कितने दिनों में पूरा हुआ?",
-    EngText: "A can complete a project in 10 days and B can complete the same project in 15 days. If A and B start working on the project together and B leaves the project 5 days before the completion, then in how many days will the project be completed?",
+    engText: "A can complete a project in 10 days and B can complete the same project in 15 days. If A and B start working on the project together and B leaves the project 5 days before the completion, then in how many days will the project be completed?",
     option: ["8 days", "10 days", "7 days", "9 days"],
     answer: "8 days"
   },
   {
     qcode: "TW0044",
     hinText: "A किसी कार्य का 3/5 भाग 12 दिनों में कर सकता है और B उसी कार्य का 1/3 भाग 15 दिनों में कर सकता है। वे 12 दिन साथ काम करते हैं और फिर A काम छोड़ देता है। B शेष कार्य कितने दिनों में पूरा करेगा?",
-    EngText: "A can do 3/5 part of a work in 12 days and B can do 1/3 part of that work in 15 days. They worked together for 12 days and then A left the work. In how much time will B alone complete the remaining work?",
+    engText: "A can do 3/5 part of a work in 12 days and B can do 1/3 part of that work in 15 days. They worked together for 12 days and then A left the work. In how much time will B alone complete the remaining work?",
     option: ["4 days", "6 days", "5 days", "8 days"],
     answer: "6 days"
   },
   {
     qcode: "TW0045",
     hinText: "कुछ व्यक्ति 55 दिनों में एक कार्य पूरा कर सकते हैं। यदि 6 व्यक्ति और होते, तो वही कार्य 11 दिन कम में पूरा हो जाता। प्रारंभिक व्यक्तियों की संख्या कितनी थी?",
-    EngText: "A certain number of persons can complete a piece of work in 55 days. If there were 6 persons more, the work could be finished in 11 days less. How many persons were there initially?",
+    engText: "A certain number of persons can complete a piece of work in 55 days. If there were 6 persons more, the work could be finished in 11 days less. How many persons were there initially?",
     option: ["30", "33", "36", "40"],
     answer: "30"
   }
@@ -1203,28 +1203,28 @@ export const questions=[
   {
     qcode: "TW0046",
     hinText: "P, Q और R को ₹5750 में एक कार्य करने के लिए नियुक्त किया गया। P और Q मिलकर कार्य का 19/23 भाग पूरा करते हैं तथा Q और R मिलकर 8/23 भाग पूरा करते हैं। Q की मजदूरी कितनी है?",
-    EngText: "P, Q and R are employed to do a work for ₹5750. P and Q together finished 19/23 of the work and Q and R together finished 8/23 of the work. Find the wages of Q.",
+    engText: "P, Q and R are employed to do a work for ₹5750. P and Q together finished 19/23 of the work and Q and R together finished 8/23 of the work. Find the wages of Q.",
     option: ["₹2850", "₹3750", "₹2750", "₹1000"],
     answer: "₹2750"
   },
   {
     qcode: "TW0047",
     hinText: "यदि A अकेले कार्य करता है तो उसे A और B के साथ मिलकर कार्य करने की तुलना में 4 दिन अधिक लगते हैं। यदि B अकेले कार्य करता है तो उसे A और B के साथ मिलकर कार्य करने की तुलना में 16 दिन अधिक लगते हैं। A और B मिलकर कार्य कितने दिनों में पूरा करेंगे?",
-    EngText: "If A works alone, he would take 4 days more to complete the job than if both A and B worked together. If B worked alone, he would take 16 days more than if A and B worked together. How many days would A and B together take to complete the job?",
+    engText: "If A works alone, he would take 4 days more to complete the job than if both A and B worked together. If B worked alone, he would take 16 days more than if A and B worked together. How many days would A and B together take to complete the job?",
     option: ["10 days", "12 days", "6 days", "8 days"],
     answer: "8 days"
   },
   {
     qcode: "TW0048",
     hinText: "A 4 दिनों में जितना काम करता है, B वही काम 5 दिनों में करता है और B 6 दिनों में जितना काम करता है, C वही काम 7 दिनों में करता है। C उस काम को कितने दिनों में करेगा जिसे A एक सप्ताह में करता है?",
-    EngText: "A can do as much work in 4 days as B can do in 5 days and B can do as much work in 6 days as C can do in 7 days. In what time will C do a piece of work which A can do in a week?",
+    engText: "A can do as much work in 4 days as B can do in 5 days and B can do as much work in 6 days as C can do in 7 days. In what time will C do a piece of work which A can do in a week?",
     option: ["10 5/24 day", "4 5/24 day", "6 8/15 day", "12 6/19 day"],
     answer: "6 8/15 day"
   },
   {
     qcode: "TW0049",
     hinText: "P 10 दिनों में कार्य का 1/4 भाग कर सकता है, Q 40 दिनों में कार्य का 40% भाग कर सकता है और R 13 दिनों में कार्य का 1/3 भाग कर सकता है। सबसे पहले कार्य कौन पूरा करेगा?",
-    EngText: "P can do 1/4 of the work in 10 days, Q can do 40% of the work in 40 days and R can do 1/3 of the work in 13 days. Who will complete the work first?",
+    engText: "P can do 1/4 of the work in 10 days, Q can do 40% of the work in 40 days and R can do 1/3 of the work in 13 days. Who will complete the work first?",
     option: ["P", "Q", "R", "Both P & R"],
     answer: "R"
   }
@@ -1233,70 +1233,70 @@ export const questions=[
   {
     qcode: "TW0050",
     hinText: "यदि 20 महिलाएँ 100 मीटर लंबी सड़क 10 दिनों में बना सकती हैं, तो 10 पुरुष 50 मीटर लंबी वही सड़क कितने दिनों में बनाएँगे?",
-    EngText: "If 20 women can lay a road of length 100 m in 10 days, how many days will 10 men take to lay the same road of length 50 m?",
+    engText: "If 20 women can lay a road of lengTh 100 m in 10 days, how many days will 10 men take to lay the same road of lengTh 50 m?",
     option: ["5 days", "15 days", "10 days", "20 days"],
     answer: "10 days"
   },
   {
     qcode: "TW0051",
     hinText: "एक ठेकेदार को 16 दिनों में सड़क बनाने का काम दिया गया। 20 मजदूरों के साथ 12 दिन 20 घंटे काम करने पर केवल 5/8 सड़क बनी। समय पर काम पूरा करने के लिए कितने अतिरिक्त मजदूर चाहिए?",
-    EngText: "A contractor was engaged to construct a road in 16 days. After working for 12 days and 20 hours with 20 labourers, only 5/8 of the road was constructed. To complete the work in stipulated time, how many extra labourers are required?",
+    engText: "A contractor was engaged to construct a road in 16 days. After working for 12 days and 20 hours with 20 labourers, only 5/8 of the road was constructed. To complete the work in stipulated time, how many extra labourers are required?",
     option: ["16", "15", "18", "14"],
     answer: "16"
   },
   {
     qcode: "TW0052",
     hinText: "A और B साथ मिलकर 7 दिनों में शेष कार्य पूरा करते हैं। पहले से 37/100 कार्य हो चुका था। A का 5 दिन का कार्य = B का 4 दिन का कार्य। सबसे तेज़ व्यक्ति को पूरा कार्य करने में कितने दिन लगेंगे?",
-    EngText: "A and B work together to complete the rest of the job in 7 days. However, 37/100 of the job was already done. Also, the work done by A in 5 days is equal to the work done by B in 4 days. How many days would be required by the fastest worker to complete the entire work?",
+    engText: "A and B work together to complete the rest of the job in 7 days. However, 37/100 of the job was already done. Also, the work done by A in 5 days is equal to the work done by B in 4 days. How many days would be required by the fastest worker to complete the entire work?",
     option: ["14 days", "10 days", "12 days", "15 days"],
     answer: "10 days"
   },
   {
     qcode: "TW0053",
     hinText: "A, B और C किसी कार्य को 6 दिनों में पूरा कर सकते हैं। A, B से दोगुना तेज और C से तीन गुना तेज है। C अकेले कार्य कितने दिनों में पूरा करेगा?",
-    EngText: "If A, B and C can complete a piece of work in 6 days. If A can work twice as fast as B and thrice as fast as C, then the number of days C alone can complete the work is:",
+    engText: "If A, B and C can complete a piece of work in 6 days. If A can work twice as fast as B and thrice as fast as C, then the number of days C alone can complete the work is:",
     option: ["44", "33", "22", "11"],
     answer: "33"
   },
   {
     qcode: "TW0054",
     hinText: "A को कार्य करने में जितना समय लगता है, B और C को मिलकर उसका 3 गुना समय लगता है। B को A और C को मिलकर कार्य करने में 4 गुना समय लगता है। तीनों मिलकर कार्य 24 दिनों में पूरा करते हैं। A अकेले कितने दिनों में कार्य करेगा?",
-    EngText: "A takes three times as long as B and C together to do a piece of work. B takes four times as long as A and C together. If all three working together can complete the job in 24 days, then the number of days A alone will take to finish the job is:",
+    engText: "A takes three times as long as B and C together to do a piece of work. B takes four times as long as A and C together. If all three working together can complete the job in 24 days, then the number of days A alone will take to finish the job is:",
     option: ["100", "96", "95", "90"],
     answer: "96"
   },
   {
     qcode: "TW0055",
     hinText: "P, Q और R को ₹5750 में कार्य करने के लिए नियुक्त किया गया। P और Q ने 19/23 कार्य किया तथा Q और R ने 8/23 कार्य किया। Q का वेतन कितना है?",
-    EngText: "P, Q and R are employed to do a work for ₹5750. P and Q together finished 19/23 of work and Q and R together finished 8/23 of work. Find the wages of Q.",
+    engText: "P, Q and R are employed to do a work for ₹5750. P and Q together finished 19/23 of work and Q and R together finished 8/23 of work. Find the wages of Q.",
     option: ["₹2850", "₹3750", "₹2750", "₹1000"],
     answer: "₹2750"
   },
   {
     qcode: "TW0056",
     hinText: "A अकेले कार्य करे तो A और B की तुलना में 4 दिन अधिक लेता है। B अकेले कार्य करे तो A और B की तुलना में 16 दिन अधिक लेता है। A और B मिलकर कार्य कितने दिनों में पूरा करेंगे?",
-    EngText: "If A works alone, he would take 4 days more to complete the job than if both A and B worked together. If B worked alone, he would take 16 days more than if A and B worked together. How many days would A and B together take to complete the job?",
+    engText: "If A works alone, he would take 4 days more to complete the job than if both A and B worked together. If B worked alone, he would take 16 days more than if A and B worked together. How many days would A and B together take to complete the job?",
     option: ["10 days", "12 days", "6 days", "8 days"],
     answer: "8 days"
   },
   {
     qcode: "TW0057",
     hinText: "A 4 दिनों में जितना काम करता है, B वही 5 दिनों में करता है। B 6 दिनों में जितना करता है, C वही 7 दिनों में करता है। C उस काम को कितने दिनों में करेगा जिसे A 7 दिनों में करता है?",
-    EngText: "A can do as much work in 4 days as B can do in 5 days and B can do as much work in 6 days as C can do in 7 days. In what time will C do a piece of work which A can do in a week?",
+    engText: "A can do as much work in 4 days as B can do in 5 days and B can do as much work in 6 days as C can do in 7 days. In what time will C do a piece of work which A can do in a week?",
     option: ["10 5/24", "4 5/24", "6 8/15", "12 6/19"],
     answer: "6 8/15"
   },
   {
     qcode: "TW0058",
     hinText: "P 10 दिनों में कार्य का 1/4 भाग कर सकता है, Q 40 दिनों में 40% कार्य कर सकता है और R 13 दिनों में 1/3 कार्य कर सकता है। सबसे पहले कौन पूरा करेगा?",
-    EngText: "P can do 1/4 of the work in 10 days, Q can do 40% of the work in 40 days and R can do 1/3 of the work in 13 days. Who will complete the work first?",
+    engText: "P can do 1/4 of the work in 10 days, Q can do 40% of the work in 40 days and R can do 1/3 of the work in 13 days. Who will complete the work first?",
     option: ["P", "Q", "R", "Both P & R"],
     answer: "R"
   },
   {
     qcode: "TW0059",
     hinText: "A एक दिन में आधा काम करता है, B पूरा काम करता है और C आधा काम करता है। कार्य क्षमता का अनुपात क्या है?",
-    EngText: "A can do half of a piece of work in 1 day, whereas B can do full work. C can do half the work as B in 1 day. The ratio of their efficiencies is:",
+    engText: "A can do half of a piece of work in 1 day, whereas B can do full work. C can do half the work as B in 1 day. The ratio of their efficiencies is:",
     option: ["1 : 2 : 4", "2 : 1 : 4", "4 : 2 : 1", "2 : 4 : 1"],
     answer: "4 : 2 : 1"
   }
@@ -1305,70 +1305,70 @@ export const questions=[
   {
     qcode: "TW0060",
     hinText: "8 पुरुष एक काम 12 दिनों में कर सकते हैं। 6 दिन काम करने के बाद 4 और पुरुष काम में जुड़ जाते हैं। शेष काम कितने दिनों में पूरा होगा?",
-    EngText: "8 men can do a work in 12 days. After 6 days of work, 4 more men join. In how many days will the remaining work be completed?",
+    engText: "8 men can do a work in 12 days. After 6 days of work, 4 more men join. In how many days will the remaining work be completed?",
     option: ["2 days", "3 days", "4 days", "5 days"],
     answer: "4 days"
   },
   {
     qcode: "TW0061",
     hinText: "कुछ पुरुष एक काम को 60 दिनों में कर सकते हैं। यदि 8 पुरुष और होते तो काम 10 दिन पहले पूरा हो जाता। प्रारंभ में कितने पुरुष थे?",
-    EngText: "A certain number of men can do a work in 60 days. If there were 8 more men, the work would be completed 10 days earlier. How many men were there initially?",
+    engText: "A certain number of men can do a work in 60 days. If there were 8 more men, the work would be completed 10 days earlier. How many men were there initially?",
     option: ["70", "55", "45", "40"],
     answer: "40"
   },
   {
     qcode: "TW0062",
     hinText: "12 व्यक्ति 4 दिनों में एक काम कर सकते हैं। आधे समय में उसी काम का 8 गुना करने के लिए कितने व्यक्तियों की आवश्यकता होगी?",
-    EngText: "12 persons can do a work in 4 days. How many persons are required to complete 8 times the work in half the time?",
+    engText: "12 persons can do a work in 4 days. How many persons are required to complete 8 times the work in half the time?",
     option: ["92", "190", "180", "144"],
     answer: "192"
   },
   {
     qcode: "TW0063",
     hinText: "एक काम कुछ मजदूरों द्वारा 100 दिनों में पूरा किया जा सकता था। लेकिन 10 मजदूरों की अनुपस्थिति के कारण काम 110 दिनों में पूरा हुआ। प्रारंभिक मजदूरों की संख्या कितनी थी?",
-    EngText: "A work could be completed in 100 days by some workers. However, due to the absence of 10 workers, it was completed in 110 days. What was the original number of workers?",
+    engText: "A work could be completed in 100 days by some workers. However, due to the absence of 10 workers, it was completed in 110 days. What was the original number of workers?",
     option: ["100", "110", "55", "50"],
     answer: "110"
   },
   {
     qcode: "TW0064",
     hinText: "40 आदमी एक पुल को 12 दिनों में मरम्मत कर सकते हैं। यदि 8 आदमी और जुड़ जाएँ, तो पुल कितने दिनों में मरम्मत होगा?",
-    EngText: "40 men can repair a bridge in 12 days. If 8 more men join them, in how many days can the bridge be repaired?",
+    engText: "40 men can repair a bridge in 12 days. If 8 more men join them, in how many days can the bridge be repaired?",
     option: ["9 days", "11 days", "8 days", "10 days"],
     answer: "10 days"
   },
   {
     qcode: "TW0065",
     hinText: "12 बंदर 12 केले 12 मिनट में खा सकते हैं। 4 बंदर 4 केले कितने मिनट में खाएँगे?",
-    EngText: "12 monkeys can eat 12 bananas in 12 minutes. In how many minutes can 4 monkeys eat 4 bananas?",
+    engText: "12 monkeys can eat 12 bananas in 12 minutes. In how many minutes can 4 monkeys eat 4 bananas?",
     option: ["4 min", "10 min", "12 min", "8 min"],
     answer: "12 min"
   },
   {
     qcode: "TW0066",
     hinText: "A और B अलग-अलग 9 और 15 दिनों में काम कर सकते हैं। यदि वे बारी-बारी से (A पहले) काम करें, तो काम कितने दिनों में पूरा होगा?",
-    EngText: "A and B working separately can do a work in 9 and 15 days respectively. If they work on alternate days, with A beginning, then the work will be completed in:",
+    engText: "A and B working separately can do a work in 9 and 15 days respectively. If they work on alternate days, with A beginning, then the work will be completed in:",
     option: ["10 days", "11 days", "9 days", "12 days"],
     answer: "11 days"
   },
   {
     qcode: "TW0067",
     hinText: "A और B क्रमशः 10 और 15 दिनों में एक काम कर सकते हैं। यदि वे बारी-बारी से काम करें और A पहले शुरू करे, तो काम कितने दिनों में पूरा होगा?",
-    EngText: "A and B can do a piece of work in 10 days and 15 days respectively. If they work on alternate days and A starts first, then in how many days will the work be completed?",
+    engText: "A and B can do a piece of work in 10 days and 15 days respectively. If they work on alternate days and A starts first, then in how many days will the work be completed?",
     option: ["12 days", "10 days", "15 days", "8 days"],
     answer: "12 days"
   },
   {
     qcode: "TW0068",
     hinText: "A, B और C एक काम को क्रमशः 20, 40 और 80 दिनों में कर सकते हैं। यदि A हर चौथे दिन अनुपस्थित रहता है, तो काम कितने दिनों में पूरा होगा?",
-    EngText: "A, B and C can do a work in 20, 40 and 80 days respectively. If A is absent every fourth day, then in how many days can the work be completed?",
+    engText: "A, B and C can do a work in 20, 40 and 80 days respectively. If A is absent every fourth day, then in how many days can the work be completed?",
     option: ["18 days", "15 days", "7 days", "16 days"],
     answer: "16 days"
   },
   {
     qcode: "TW0069",
     hinText: "A एक काम 20 दिनों में कर सकता है, B 60 दिनों में और C 120 दिनों में। यदि A को B और C की सहायता बारी-बारी से मिले, तो काम कितने दिनों में पूरा होगा?",
-    EngText: "A can do a work in 20 days, B in 60 days and C in 120 days. If A is assisted by B and C on alternate days, then the work will be completed in:",
+    engText: "A can do a work in 20 days, B in 60 days and C in 120 days. If A is assisted by B and C on alternate days, then the work will be completed in:",
     option: ["14 days", "15 days", "12 days", "16 days"],
     answer: "16 days"
   }
