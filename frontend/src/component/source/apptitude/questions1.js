@@ -44,15 +44,15 @@ export const questions=[
   },
   {
     qcode: "PER0007",
-    hinText: "यदि A का 15%, B के 45% के बराबर है, तो (A − B), A का कितना प्रतिशत है?",
-    engText: "If 15% of A is equal to 45% of B, then what percentage of (A − B) is equal to A?",
+    hinText: "यदि A का 15%, B के 45% के बराबर है, तो (A - B), A का कितना प्रतिशत है?",
+    engText: "If 15% of A is equal to 45% of B, then what percentage of (A - B) is equal to A?",
     option: ["60%", "150%", "75%", "90%"],
     answer: "60%"
   },
   {
     qcode: "PER0008",
-    hinText: "यदि A, B से 25% कम है, तो (2B − A)/2 का मान क्या होगा?",
-    engText: "If A is 25% less than B, then what will be the value of (2B − A)/2?",
+    hinText: "यदि A, B से 25% कम है, तो (2B - A)/2 का मान क्या होगा?",
+    engText: "If A is 25% less than B, then what will be the value of (2B - A)/2?",
     option: ["5/2", "5/4", "3/4", "4/3"],
     answer: "5/4"
   },
@@ -65,8 +65,8 @@ export const questions=[
   },
   {
     qcode: "PER0010",
-    hinText: "यदि A, B से 20% कम है, तो (2B − A)/A का मान क्या होगा?",
-    engText: "If A is 20% less than B, then what will be the value of (2B − A)/A?",
+    hinText: "यदि A, B से 20% कम है, तो (2B - A)/A का मान क्या होगा?",
+    engText: "If A is 20% less than B, then what will be the value of (2B -A)/A?",
     option: ["3/2", "3/5", "3/4", "4/3"],
     answer: "3/2"
   },
@@ -86,8 +86,8 @@ export const questions=[
   },
   {
     qcode: "PER0013",
-    hinText: "यदि (x − y) का 30% = (x + y) का 20% है, तो y, x का कितना प्रतिशत है?",
-    engText: "If 30% of (x − y) = 20% of (x + y), then y is what percentage of x?",
+    hinText: "यदि (x - y) का 30% = (x + y) का 20% है, तो y, x का कितना प्रतिशत है?",
+    engText: "If 30% of (x - y) = 20% of (x + y), then y is what percentage of x?",
     option: ["20%", "35%", "24%", "15%"],
     answer: "20%"
   },
@@ -932,7 +932,7 @@ export const questions=[
     answer: "4 3/8 दिन"
   }
 ,
-[
+
   {
     qcode: "TW0009",
     hinText: "A और E मिलकर एक कार्य को 160 दिनों में पूरा कर सकते हैं तथा C और E मिलकर उसी कार्य को 80 दिनों में कर सकते हैं। A, C और E मिलकर उसी कार्य को कितने दिनों में पूरा करेंगे?",
@@ -1069,7 +1069,7 @@ export const questions=[
     answer: "₹6000"
   }
 ,
-[
+
   {
     qcode: "TW0028",
     hinText: "एक आदमी और एक लड़के ने 5 दिनों तक साथ काम करने के लिए ₹800 प्राप्त किए। आदमी की कार्यक्षमता लड़के की दोगुनी है। लड़के की दैनिक मजदूरी क्या है?",
@@ -1134,7 +1134,7 @@ export const questions=[
     answer: "21 दिन 18 घंटे"
   }
 ,
-[
+
   {
     qcode: "TW0037",
     hinText: "K अकेला एक कार्य को 20 दिनों में और M अकेला उसी कार्य को 30 दिनों में कर सकता है। K और M साथ काम शुरू करते हैं, पर K 5 दिनों बाद काम छोड़ देता है। शेष कार्य को M कितने दिनों में पूरा करेगा?",
@@ -1199,7 +1199,7 @@ export const questions=[
     answer: "30"
   }
 ,
-[
+
   {
     qcode: "TW0046",
     hinText: "P, Q और R को ₹5750 में एक कार्य करने के लिए नियुक्त किया गया। P और Q मिलकर कार्य का 19/23 भाग पूरा करते हैं तथा Q और R मिलकर 8/23 भाग पूरा करते हैं। Q की मजदूरी कितनी है?",
