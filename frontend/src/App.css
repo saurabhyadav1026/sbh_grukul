@@ -1,0 +1,26 @@
+
+
+ #search_btn:hover{
+background-color: aqua;
+
+
+}
+
+#full_screen_btn:hover{
+    background-color: blanchedalmond;
+}
+
+.q_list:hover{
+    background-color: rgb(143, 252, 196);
+}
+
+#copy_btn:hover{
+    background-color: rgb(148, 167, 243);
+}
+#copy_btn{
+    border: 1px solid pink;
+}
+
+.option_list:hover{
+    background-color: rgb(175, 191, 243);
+}

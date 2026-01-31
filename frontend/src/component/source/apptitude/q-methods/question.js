@@ -47,7 +47,7 @@ export const getPrevQuestion = (qcode) => {
 }
 
 
-/* 
+
 export const getTopicQuestions = (type_code) => {
 
     let topic_question = []
@@ -58,4 +58,17 @@ export const getTopicQuestions = (type_code) => {
     }
     return null;
 
-} */
+} 
+
+
+export const  searchQuestion=(input)=>{
+
+    
+    for (let i = 0; i < questions.length; i++) {
+        if (questions[i].qcode.includes(input)) {
+            return questions[i].qcode;
+        }
+    }
+    return null;
+
+}

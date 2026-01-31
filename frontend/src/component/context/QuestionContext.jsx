@@ -9,6 +9,10 @@ const QuestionContext = createContext(null);
 
 export const QuestionContextProvider = ({ children }) => {
 
+const [full_q_page_style,setFullQPageStyle]=useState({})
+
+
+
     const { qcode } = useParams();
 
     const [questions, setQuestions] = useState({})
@@ -20,7 +24,6 @@ export const QuestionContextProvider = ({ children }) => {
 
 
     useEffect(() => {
-        localStorage.clear()
         let anss = JSON.parse(localStorage.getItem("user_answers"));
      console.log(anss)
         if (anss ) setAns(anss)
@@ -39,7 +42,7 @@ export const QuestionContextProvider = ({ children }) => {
 
 
     return <>
-        <QuestionContext.Provider value={{ questions, updateQuestions, userAns, updateAns }} >{children}</QuestionContext.Provider>
+        <QuestionContext.Provider value={{ questions, updateQuestions, userAns, updateAns ,full_q_page_style,setFullQPageStyle }} >{children}</QuestionContext.Provider>
 
     </>
 
